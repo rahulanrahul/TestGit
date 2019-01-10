@@ -21,7 +21,7 @@ print(c)
 text = text1 + text2
 if y > x:
     print("Hello Python World",text1) 
-    print("Bla Bla Bla")
+    print("Bla Bla Bla Car")
     print(text[0:7])
     print(x + y)
 x = 1
